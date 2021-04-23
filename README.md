@@ -1,2 +1,2 @@
 # First-glance-at-Bayesian-Neural-network
-learn the gist of Bayesian neural network
+In this notebook we compare the non-Bayesian and Bayesian neural network which share similar architecture. Bayesian NN provides uncertainty in its prediction while non-Bayesian NN only provides point esitmates. MNIST dataset is used.
